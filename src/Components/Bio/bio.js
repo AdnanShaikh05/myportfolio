@@ -5,7 +5,7 @@ function Bio() {
   return (
     <>
     <div className="container my-5">
-      <div className="row align-items-center ms-1 me-1">
+      <div className="row align-items-center">
         
         <div className="col-12 col-md-8">
           
